@@ -1,4 +1,4 @@
-# Linux-Admin
+# Linux Administration Shortcuts
 
 ## Installation
 
